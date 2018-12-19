@@ -6,6 +6,8 @@ import operator
 import numpy as np
 from label_image import IMAGES_PATH, MODELS_PATH
 # Import library to display results
+import matplotlib
+matplotlib.use('agg')
 import matplotlib.pyplot as plt
 
 _url = 'https://api.projectoxford.ai/vision/v1.0/analyze'
