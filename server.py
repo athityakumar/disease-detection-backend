@@ -165,7 +165,9 @@ def get_disease(image_id=None):
 		return ''.join(random.choice(letters) for i in range(length))
 
 	def download_image_from_url(url):
+		print(url)
 		r = requests.request("GET", url)
+		print(r.headers["Content-Type"])
 		image_id = randomword()
 		image_name = image_id + ".jpg"
 		with open("{}/{}".format(label_image.IMAGES_PATH, image_name), "w") as img_file:
