@@ -14,6 +14,8 @@ import sys
 import json
 import pickle
 import random, string
+import requests
+
 app = Flask(__name__)
 cursor = None
 db = None
@@ -162,18 +164,25 @@ def get_disease(image_id=None):
 		letters = string.ascii_lowercase
 		return ''.join(random.choice(letters) for i in range(length))
 
+	def download_image_from_url(url):
+		r = requests.request("GET", url)
+		image_id = randomword()
+		image_name = image_id + ".jpg"
+		with open("{}/{}".format(label_image.IMAGES_PATH, image_name), "w") as img_file:
+			img_file.write(r.content)
+		return(image_id)
+
 	# print "Finding disease for {}".format(crop_name)
 	if request.method == 'POST':
 		if not image_id:
 			try :
-				f = request.files['file']
+				image_id = download_image_from_url(request.url)
+				# f = request.files['file']
 			except :
 				return jsonify({"status":0})
-			image_id = randomword()
 		try :
 			return_dict = dict()
 			image_name = image_id + ".jpg"
-			f.save("{}/{}".format(label_image.IMAGES_PATH, image_name))
 			# flag = tagCheck.main(image_name)
 			flag=1
 			if flag :
