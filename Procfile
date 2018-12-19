@@ -1,1 +1,1 @@
-web: pip2 uninstall tensorflow-gpu; pip2 uninstall tensorflow; sudo python -mpip install tensorflow; python server.py
+web: pip install --upgrade pip; pip uninstall tensorflow-gpu; pip uninstall tensorflow; python -mpip install tensorflow; python server.py
