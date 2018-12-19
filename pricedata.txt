@@ -1,0 +1,218 @@
+[
+    {
+        "link":"http://kisaankranti.com/fertilizer/nitrogenbio-fertilizer.html",
+        "pricet":"Rs 3,800.00",
+        "productname":"NitrogenBio-Fertilizer",
+        "producttype":"fertilizer"
+    },
+    {
+        "link":"http://kisaankranti.com/fertilizer/vermi-compost.html",
+        "pricet":"Rs 3,500.00",
+        "productname":"Vermi Compost",
+        "producttype":"fertilizer"
+    },
+    {
+        "link":"http://kisaankranti.com/fertilizer/urea-phosphate.html",
+        "pricet":"Rs 5,800.00",
+        "productname":"Urea Phosphate",
+        "producttype":"fertilizer"
+    },
+    {
+        "link":"http://kisaankranti.com/fertilizer/urea-technical-grade.html",
+        "pricet":"Rs 5,000.00",
+        "productname":"Urea Technical Grade",
+        "producttype":"fertilizer"
+    },
+    {
+        "link":"http://kisaankranti.com/fertilizer/organic-vermicompost-manure.html",
+        "pricet":"Rs 23,200.00",
+        "productname":"Organic Vermicompost Manure",
+        "producttype":"fertilizer"
+    },
+    {
+        "link":"http://kisaankranti.com/fertilizer/pungam-cake-organic-manure.html",
+        "pricet":"Rs 35,000.00",
+        "productname":"Pungam Cake Organic Manure",
+        "producttype":"fertilizer"
+    },
+    {
+        "link":"http://kisaankranti.com/fertilizer/dap-fertilizer-organic.html",
+        "pricet":"Rs 1,500.00",
+        "productname":"DAP Fertilizer Organic",
+        "producttype":"fertilizer"
+    },
+    {
+        "link":"http://kisaankranti.com/fertilizer/home-garden-organic-fertilizer.html",
+        "pricet":"Rs 8,000.00",
+        "productname":"Home Garden Organic Fertilizer",
+        "producttype":"fertilizer"
+    },
+    {
+        "link":"http://kisaankranti.com/fertilizer/organic-mixture.html",
+        "pricet":"Rs 95,000.00",
+        "productname":"Organic Mixture",
+        "producttype":"fertilizer"
+    },
+    {
+        "link":"http://kisaankranti.com/fertilizer/amino-acid-powder.html",
+        "pricet":"Rs 12,500.00",
+        "productname":"Amino Acid Powder",
+        "producttype":"fertilizer"
+    },
+    {
+        "link":"http://kisaankranti.com/fertilizer/chemical-fertilizers.html",
+        "pricet":"Rs 6,500.00",
+        "productname":"Chemical Fertilizers",
+        "producttype":"fertilizer"
+    },
+    {
+        "link":"http://kisaankranti.com/fertilizer/plant-growth-copper-sulphate-regulator.html",
+        "pricet":"Rs 5,600.00",
+        "productname":"Plant Growth Copper Sulphate Regulator",
+        "producttype":"fertilizer"
+    },
+    {
+        "link":"http://kisaankranti.com/pesticide/spinner.html",
+        "pricet":"Rs 2,000.00",
+        "productname":"Spinner",
+        "producttype":"pesticide"
+    },
+    {
+        "link":"http://kisaankranti.com/pesticide/sv-vepon-larvicide.html",
+        "pricet":"Rs 215,910.00",
+        "productname":"SV VEPON Larvicide",
+        "producttype":"pesticide"
+    },
+    {
+        "link":"http://kisaankranti.com/pesticide/sumilarv-0-5g-larvicide.html",
+        "pricet":"Rs 330,000.00",
+        "productname":"Sumilarv 0.5g (Larvicide)",
+        "producttype":"pesticide"
+    },
+    {
+        "link":"http://kisaankranti.com/pesticide/organic-bactericide.html",
+        "pricet":"Rs 600,000.00",
+        "productname":"Organic Bactericide",
+        "producttype":"pesticide"
+    },
+    {
+        "link":"http://kisaankranti.com/pesticide/trichoderma-viride.html",
+        "pricet":"Rs 10,000.00",
+        "productname":"Trichoderma Viride",
+        "producttype":"pesticide"
+    },
+    {
+        "link":"http://kisaankranti.com/pesticide/rat-rodenticide.html",
+        "pricet":"Rs 5,000.00",
+        "productname":"Rat Rodenticide",
+        "producttype":"pesticide"
+    },
+    {
+        "link":"http://kisaankranti.com/pesticide/glyphosate-herbicide-sl.html",
+        "pricet":"Rs 25,000.00",
+        "productname":"Glyphosate Herbicide SL",
+        "producttype":"pesticide"
+    },
+    {
+        "link":"http://kisaankranti.com/pesticide/paraquat-dichloride-herbicide.html",
+        "pricet":"Rs 22,000.00",
+        "productname":"Paraquat Dichloride Herbicide",
+        "producttype":"pesticide"
+    },
+    {
+        "link":"http://kisaankranti.com/pesticide/bio-pesticides.html",
+        "pricet":"Rs 40,000.00",
+        "productname":"Bio Pesticides",
+        "producttype":"pesticide"
+    },
+    {
+        "link":"http://kisaankranti.com/pesticide/agricultural-pesticides.html",
+        "pricet":"Rs 40,000.00",
+        "productname":"Agricultural Pesticides",
+        "producttype":"pesticide"
+    },
+    {
+        "link":"http://kisaankranti.com/pesticide/compel.html",
+        "pricet":"Rs 2,600.00",
+        "productname":"Compel",
+        "producttype":"pesticide"
+    },
+    {
+        "link":"http://kisaankranti.com/pesticide/convert-point-hexaconazole-5-sc-fungicides.html",
+        "pricet":"Rs 20,000.00",
+        "productname":"Convert Point Hexaconazole 5% SC Fungicides",
+        "producttype":"pesticide"
+    },
+    {
+        "link":"http://kisaankranti.com/seeds/moong-seed.html",
+        "pricet":"Rs 7,800.00",
+        "productname":"Moong Seed",
+        "producttype":"seeds"
+    },
+    {
+        "link":"http://kisaankranti.com/seeds/brinjal-seed.html",
+        "pricet":"Rs 10.00",
+        "productname":"Brinjal Seed",
+        "producttype":"seeds"
+    },
+    {
+        "link":"http://kisaankranti.com/seeds/sunflower-seed.html",
+        "pricet":"Rs 600.00",
+        "productname":"Sunflower Seed",
+        "producttype":"seeds"
+    },
+    {
+        "link":"http://kisaankranti.com/seeds/lentils-seeds.html",
+        "pricet":"Rs 50.00",
+        "productname":"Lentils Seeds",
+        "producttype":"seeds"
+    },
+    {
+        "link":"http://kisaankranti.com/seeds/arhar-dal.html",
+        "pricet":"Rs 100.00",
+        "productname":"Arhar Dal",
+        "producttype":"seeds"
+    },
+    {
+        "link":"http://kisaankranti.com/seeds/bajra-seeds.html",
+        "pricet":"Rs 225.00",
+        "productname":"Bajra Seeds",
+        "producttype":"seeds"
+    },
+    {
+        "link":"http://kisaankranti.com/seeds/wheat-seeds.html",
+        "pricet":"Rs 35.00",
+        "productname":"Wheat Seeds",
+        "producttype":"seeds"
+    },
+    {
+        "link":"http://kisaankranti.com/seeds/sunflower-seeds.html",
+        "pricet":"Rs 21,000.00",
+        "productname":"Sunflower Seeds",
+        "producttype":"seeds"
+    },
+    {
+        "link":"http://kisaankranti.com/seeds/mustard-seeds-yellow.html",
+        "pricet":"Rs 16,500.00",
+        "productname":"Mustard Seeds Yellow",
+        "producttype":"seeds"
+    },
+    {
+        "link":"http://kisaankranti.com/seeds/mustard-seeds.html",
+        "pricet":"Rs 18,000.00",
+        "productname":"Mustard Seeds",
+        "producttype":"seeds"
+    },
+    {
+        "link":"http://kisaankranti.com/seeds/soya-seeds.html",
+        "pricet":"Rs 14,000.00",
+        "productname":"Soya Seeds",
+        "producttype":"seeds"
+    },
+    {
+        "link":"http://kisaankranti.com/seeds/hara-udad-ka-beej.html",
+        "pricet":"Rs 125.00",
+        "productname":"HARA UDAD KA BEEJ",
+        "producttype":"seeds"
+    }
+]

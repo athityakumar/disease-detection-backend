@@ -1,0 +1,52 @@
+[
+    {
+        "headline":"Paswan blames states for high prices of pulses",
+        "link":"http://economictimes.indiatimes.com/news/economy/agriculture//news/economy/agriculture/paswan-blames-states-for-high-prices-of-pulses/articleshow/55233929.cms",
+        "news":"The disconnect between states and the Centre is evident in the delayed implementation of the NFSA."
+    },
+    {
+        "headline":"India to keep wheat import tax at 10%, private imports seen at 3 million tonnes",
+        "link":"http://economictimes.indiatimes.com/news/economy/agriculture//news/economy/agriculture/india-to-keep-wheat-import-tax-at-10-private-imports-seen-at-3-million-tonnes/articleshow/55227722.cms",
+        "news":"Private traders have already imported about 1.2 million tonnes of wheat so far this year, mainly from Australia."
+    },
+    {
+        "headline":"India won't lower wheat import tax for now",
+        "link":"http://economictimes.indiatimes.com/news/economy/agriculture//news/economy/agriculture/india-wont-lower-wheat-import-tax-for-now/articleshow/55223838.cms",
+        "news":"Private traders are  expected to import about 3 million tonnes of wheat in the current fiscal year"
+    },
+    {
+        "headline":"Relief likely for sugarcane farmers as Tamil Nadu power board pays sugar mills",
+        "link":"http://economictimes.indiatimes.com/news/economy/agriculture//news/economy/agriculture/relief-likely-for-sugarcane-farmers-as-tamil-nadu-power-board-pays-sugar-mills/articleshow/55219476.cms",
+        "news":"The downward spiral in sugar prices and a high debt position had led to mills owing farmers about Rs 225 crore of the Centre's Fair and Remunerative Price."
+    },
+    {
+        "headline":"Swadeshi test for GM Mustard",
+        "link":"http://economictimes.indiatimes.com/news/economy/agriculture//news/economy/agriculture/swadeshi-test-for-gm-mustard/articleshow/55214777.cms",
+        "news":"Mahajan said that the general feeling in the Rashtriya Swayamsevak Sangh was against GM."
+    },
+    {
+        "headline":"Cabinet may hike rabi pulses minimum support price by up to Rs 600/quintal",
+        "link":"http://economictimes.indiatimes.com/news/economy/agriculture//news/economy/agriculture/cabinet-may-hike-rabi-pulses-minimum-support-price-by-up-to-rs-600/quintal/articleshow/55185716.cms",
+        "news":"Barring pulses, the ministry has accepted all the recommendations of the Commission for Agricultural Costs and Prices (CACP) for the 2016-17 winter crops."
+    },
+    {
+        "headline":"Will face any challenge to protect farmers' interests: Balyan",
+        "link":"http://economictimes.indiatimes.com/news/economy/agriculture//news/economy/agriculture/will-face-any-challenge-to-protect-farmers-interests-balyan/articleshow/55184084.cms",
+        "news":"The BJP leader was present at a meeting of farmers here last evening, in which a decision was taken to not supply the cane crop to Titawi sugar mill which owes Rs 150 crores to farmers."
+    },
+    {
+        "headline":"No immediate plans to further cut import duty on wheat: Government",
+        "link":"http://economictimes.indiatimes.com/news/economy/agriculture//news/economy/agriculture/no-immediate-plans-to-further-cut-import-duty-on-wheat-government/articleshow/55180930.cms",
+        "news":"On September 23, import duty on wheat was reduced to 10 per cent from 25 per cent to boost supplies and check prices during Dusshera and Diwali festivals."
+    },
+    {
+        "headline":"Maharashtra occupies top slot in farmer friendly policies: NITI Aayog",
+        "link":"http://economictimes.indiatimes.com/news/economy/agriculture//news/economy/agriculture/maharashtra-occupies-top-slot-in-farmer-friendly-policies-niti-aayog/articleshow/55156050.cms",
+        "news":"The Aayog's 'Agriculture Marketing and Farmer Friendly Reforms Index' was based on initiatives taken by the states in implementing farm sector reforms."
+    },
+    {
+        "headline":"Experts raise doubts over promised bounty of genetically modified crops",
+        "link":"http://economictimes.indiatimes.com/news/economy/agriculture//news/economy/agriculture/experts-raise-doubts-over-promised-bounty-of-genetically-modified-crops/articleshow/55145991.cms",
+        "news":"Genetic modification has not accelerated rise in crop yields or led to an overall reduction in use of chemical pesticides."
+    }
+]
