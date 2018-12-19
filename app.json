@@ -1,0 +1,57 @@
+{
+    "name": "Disection",
+    "description": "This app does one little thing: Disease Detection in crops.",
+    "keywords": [
+        "productivity",
+        "HTML5",
+        "scalpel"
+    ],
+    // "scripts": {
+    //     "postdeploy": "bundle exec rake bootstrap"
+    // },
+    // "env": {
+    //     "SECRET_TOKEN": {
+    //         "description": "A secret key for verifying the integrity of signed cookies.",
+    //         "generator": "secret"
+    //     },
+    //     "WEB_CONCURRENCY": {
+    //         "description": "The number of processes to run.",
+    //         "value": "5"
+    //     }
+    // },
+    // "formation": {
+    //     "web": {
+    //         "quantity": 2,
+    //         "size": "Performance-M"
+    //     }
+    // },
+    "image": "heroku/python",
+    // "addons": [
+    //     "openredis",
+    //     {
+    //         "plan": "mongolab:shared-single-small",
+    //         "as": "MONGO"
+    //     },
+    //     {
+    //         "plan": "heroku-postgresql",
+    //         "options": {
+    //             "version": "9.5"
+    //         }
+    //     }
+    // ],
+    "buildpacks": [
+        {
+            "url": "https://github.com/slobdell/heroku-buildpack-python-opencv-scipy"
+        },
+        {
+            "url": ""
+        }
+    ]
+    // "environments": {
+    //     "test": {
+    //         "scripts": {
+    //             "test": "bundle exec rake test"
+    //         }
+    //     }
+    // }
+}
