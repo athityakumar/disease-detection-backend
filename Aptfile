@@ -1,3 +1,4 @@
-libsm6:i386
+libsm6
+libice6
 libxrender1
 libfontconfig1
