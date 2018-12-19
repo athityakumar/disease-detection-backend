@@ -82,7 +82,6 @@ stevedore==1.28.0
 subprocess32==3.5.3
 tensorboard==1.12.1
 tensorflow==1.12.0
-tensorflow-gpu==1.1.0
 termcolor==1.1.0
 tornado==4.3
 tqdm==4.25.0
