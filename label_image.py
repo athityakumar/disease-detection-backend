@@ -1,6 +1,7 @@
 import tensorflow as tf, sys
 from operator import itemgetter
 
+
 IMAGES_PATH = "./images"
 MODELS_PATH = "./models"
 
@@ -12,7 +13,7 @@ def main(folder,img) :
 
     # Read in the image_data
     image_data = tf.gfile.FastGFile(image_path, 'rb').read()
-
+    print image_data
     # Loads label file, strips off carriage return
     labelFile = "{}/{}/retrained_labels.txt".format(MODELS_PATH, folder)
     print ("The label file is {}".format(labelFile))

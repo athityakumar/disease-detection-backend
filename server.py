@@ -15,6 +15,7 @@ import json
 import pickle
 import random, string
 import requests
+import base64
 
 app = Flask(__name__)
 cursor = None
@@ -165,20 +166,23 @@ def get_disease(image_id=None):
 		return ''.join(random.choice(letters) for i in range(length))
 
 	def download_image_from_url(url):
+		url = str(url)
 		print(url)
-		r = requests.request("GET", url)
+		r = requests.get(url)
 		print(r.headers["Content-Type"])
 		image_id = randomword()
+		print(image_id)
 		image_name = image_id + ".jpg"
 		with open("{}/{}".format(label_image.IMAGES_PATH, image_name), "w") as img_file:
-			img_file.write(r.content)
-		return(image_id)
+			img_file.write(str(r.content))
+		return image_id
 
 	# print "Finding disease for {}".format(crop_name)
 	if request.method == 'POST':
+		print("POST", request.form)
 		if not image_id:
 			try :
-				image_id = download_image_from_url(request.url)
+				image_id = download_image_from_url(request.form.get("image_url"))
 				# f = request.files['file']
 			except :
 				return jsonify({"status":0})
