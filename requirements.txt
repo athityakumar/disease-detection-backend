@@ -48,7 +48,7 @@ Mopidy==2.1.0
 moviepy==0.2.3.5
 MySQL-python==1.2.5
 numpy==1.15.4
-opencv-python==3.4.4.19
+opencv-python==4.2.0.32
 ordereddict==1.1
 pandas==0.23.4
 pathlib2==2.3.0
